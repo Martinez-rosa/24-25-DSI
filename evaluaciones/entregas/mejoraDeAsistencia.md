@@ -1,4 +1,4 @@
-# Propuesta de Innovación para la Gestión de la Asistencia y Evaluaciones en el Aula  
+# Propuesta de Innovación para la Gestión de la Asistencia y Evaluaciones 
 **Integración de Predicción de Absentismo y Análisis Avanzado mediante Power BI**  
 **Alineada con la Estrategia y Planificación de Sistemas de Información**
 ## 1. Introducción  
